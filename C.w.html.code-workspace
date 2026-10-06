@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../C.w.html"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Bootcamp project"
+  }
+}
